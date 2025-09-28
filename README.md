@@ -1,4 +1,4 @@
-# payments
+# simple-todo-app
 **simple-todo-app** is a lightweight, todo-app written in **Python**.  
 The program runs entirely in the terminal and does not have a GUI.
 
